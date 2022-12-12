@@ -156,3 +156,5 @@ while True:
         print("Dont worry User, try harder next time")
     print("User your final score is : ", score)
     print("Your points in percentage are: ",((score/50)*100),"%")
+    
+    #hi
