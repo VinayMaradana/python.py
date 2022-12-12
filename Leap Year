@@ -1,0 +1,11 @@
+def car():
+    if x % 4 == 0 and x % 100 != 0:
+        return ("true")
+    if x % 100 == 0 and x % 400 == 0:
+        return ("true")
+    else:
+        return ("false")
+x=int(input())
+print(car())
+
+
